@@ -1,5 +1,5 @@
 # Billing Mikrotik (PHPNUXBILL Laravel Version)
-Link : [phpnuxbill](https://github.com/amolood/phpnuxbill)
+Link : [phpnuxbill](https://github.com/hotspotbilling/phpnuxbill)
 ## Instalation
 - copy .env.example to .env
 - run `composer install`
